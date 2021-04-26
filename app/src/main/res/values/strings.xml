@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Local Storage App</string>
+    <string name="add_word">Add Word</string>
+    <string name="hint_word">Word String</string>
+    <string name="button_save">Add</string>
+    <string name="empty_not_saved">Action failed because is empty.</string>
+</resources>
